@@ -11,7 +11,7 @@ sections:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
-    image: /images/117106120_629561567687205_5639612738643914308_n.png
+    image: /images/White Yellow Rental Car Instagram Post.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
