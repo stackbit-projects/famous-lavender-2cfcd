@@ -19,7 +19,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/hero-background.jpg
+    background_image: /images/117106120_629561567687205_5639612738643914308_n.png
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 20
